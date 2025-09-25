@@ -1,11 +1,12 @@
 
-Hi, I am Maria  !!
+Hi, I am Maria  👩🏻‍💻 !!
 Software QA Engineer / Analyst / Scrum Master 
 
 Cell 📱 : 1.519.697.4057
-cecynn1805@gmail.com	
 
-LINKEDIN: https://www.linkedin.com/in/maria-nunez-rivas
+Email 📧: cecynn1805@gmail.com	
+
+LINKEDIN 👩🏻‍💼: https://www.linkedin.com/in/maria-nunez-rivas
 
 
  
