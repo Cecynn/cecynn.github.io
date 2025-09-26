@@ -1,19 +1,25 @@
 
-Hi, I am Maria  👩🏻‍💻 !!
-Software QA Engineer / Analyst / Scrum Master 
-
-Cell 📱 : 1.519.697.4057
-
-Email 📧: cecynn1805@gmail.com	
-
-LINKEDIN 👩🏻‍💼: https://www.linkedin.com/in/maria-nunez-rivas
 
 
+
+<h1>Hi, I am Maria  👩🏻‍💻! <br/><a href="https://github.com/cecynn">Software QA Engineer / Analyst / Scrum Master</a>, <a href="https://www.linkedin.com/in/maria-nunez-rivas/">IT Professional</a>
+
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+- <b>Case Studies</b>
+
+  - [Proof of some situations / experience where I had to deal with difficult situations at work](https://github.com/cecynn/Algorithms-Practice)
  
+ 
+
  
  MARIA NUNEZ-RIVAS 🙋🏻‍♀️
 
- About me :  I'm passionate about software quality assurance and take pride in ensuring that every product I work on meets the highest standards of reliability and performance. I thrive in collaborative environments where ideas are shared, communication is open, and everyone works toward a common goal.
+ About me 👩🏻‍💻:  
+ 
+ I'm passionate about software quality assurance and take pride in ensuring that every product I work on meets the highest standards of reliability and performance. I thrive in collaborative environments where ideas are shared, communication is open, and everyone works toward a common goal.
 
 Beyond technical skills, I value integrity, respect, and thoughtful communication. I'm currently looking for opportunities where I can contribute my QA expertise in a team that values not just productivity, but also a healthy, supportive work culture. A place where people are treated with respect, and where deep values and a strong sense of purpose guide the work we do.
 
