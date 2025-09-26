@@ -10,7 +10,7 @@
 
 - <b>Case Studies</b>
 
-  - [Proof of some situations / experience where I had to deal with difficult situations at work](https://github.com/cecynn/Algorithms-Practice)
+  - [Proof of some situations / experience where I had to deal with difficult situations at work](https://github.com/Cecynn/MyCaseStudies)
  
  - <b>My Documents</b>
 
