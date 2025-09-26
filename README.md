@@ -14,7 +14,7 @@
  
  - <b>My Documents</b>
 
-  - [ BA Computer Systems Engineer Translation ](https://github.com/cecynn/Algorithms-Practice)
+  - [ BA Computer Systems Engineer Translation ](https://github.com/Cecynn/MyBACompEngTranslation)
 
  
  MARIA NUNEZ-RIVAS 🙋🏻‍♀️
