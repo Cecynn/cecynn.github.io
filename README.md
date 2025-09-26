@@ -12,7 +12,9 @@
 
   - [Proof of some situations / experience where I had to deal with difficult situations at work](https://github.com/cecynn/Algorithms-Practice)
  
- 
+ - <b>My Documents</b>
+
+  - [ BA Computer Systems Engineer Translation ](https://github.com/cecynn/Algorithms-Practice)
 
  
  MARIA NUNEZ-RIVAS 🙋🏻‍♀️
