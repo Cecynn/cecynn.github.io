@@ -5,7 +5,7 @@
 <h1>Hi, I am Maria  👩🏻‍💻! <br/><a href="https://github.com/cecynn">Software QA Engineer / Analyst / Scrum Master</a>, <a href="https://www.linkedin.com/in/maria-nunez-rivas/">IT Professional</a>
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software / IT Professional </h2>
 
 
 - <b>Case Studies:</b>
