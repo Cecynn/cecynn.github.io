@@ -8,13 +8,18 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-- <b>Case Studies</b>
+- <b>Case Studies:</b>
 
   - [Proof of some situations / experience where I had to deal with difficult situations at work](https://github.com/Cecynn/MyCaseStudies)
  
- - <b>My Documents</b>
+ - <b>My Documents:</b>
 
   - [ BA Computer Systems Engineer Translation ](https://github.com/Cecynn/MyBACompEngTranslation)
+
+
+ - <b>Proficient using Jira:</b>
+
+  - [ Took ownership of sprint planning and tracking using Jira; added user stories and tasks, maintained their progress status, and managed bugs by setting severity levels and tracking their resolution.](https://github.com/Cecynn/MyBACompEngTranslation)
 
  
  MARIA NUNEZ-RIVAS 🙋🏻‍♀️
