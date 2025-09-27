@@ -19,7 +19,7 @@
 
  - <b>Proficient using Jira:</b>
 
-  - [ Took ownership of sprint planning and tracking using Jira; added user stories and tasks, maintained their progress status, and managed bugs by setting severity levels and tracking their resolution.](https://github.com/Cecynn/MyBACompEngTranslation)
+  - [ Took ownership of sprint planning and tracking using Jira; added user stories and tasks, maintained their progress status, and managed bugs by setting severity levels and tracking their resolution.](https://github.com/Cecynn/ExpertUsingJira)
 
  
  MARIA NUNEZ-RIVAS 🙋🏻‍♀️
